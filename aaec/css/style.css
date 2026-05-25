@@ -17,8 +17,8 @@
 }
 
 :root {
-  --bg: #090f1b;
-  --panel: rgba(0, 72, 255, 0.86);
+  --bg: #ffffff;
+  --panel: rgba(255, 255, 255, 0.86);
   --panel-soft: rgba(13, 19, 34, 0.7);
   --text: #f7f7f7;
   --muted: #c8d0e2;
